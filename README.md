@@ -1,5 +1,9 @@
 # RSVP Movie case study - IMDB dataset - Exploratory Data Analysis using SQL
 </br>
+RSVP Movies, a renowned Indian film production company known for its track record of producing blockbuster movies, is embarking on an exciting venture in 2022. While traditionally focused on the Indian audience, they are now gearing up to create a film with global appeal. </br>
+</br>
+To ensure the success of this new project, RSVP Movies is seeking data-driven insights and strategic guidance. They have entrusted you with the task of </br> analyzing data from the past three years, which includes information on previously released movies. Your role is to extract valuable insights from this dataset to inform and shape their approach to this international endeavor.</br>
+</br>
 
 ## Data understanding, preparation and insights: 
 
