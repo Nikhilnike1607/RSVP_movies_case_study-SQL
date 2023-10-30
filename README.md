@@ -1,6 +1,8 @@
 # RSVP Movie case study - IMDB dataset - Exploratory Data Analysis using SQL
 </br>
+
 ## Data understanding, preparation and insights: 
+
 -- Based on ER diagram, we can understand on the different tables and their relationships. </br>
 -- Dealing with Null values in different columns, outliers through max and min ranges through SQL queries. </br>
 -- Data Analysis : After thorough understanding of dataset and business requirement, we can arrive at following insights: </br>
